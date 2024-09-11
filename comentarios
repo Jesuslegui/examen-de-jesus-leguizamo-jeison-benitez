@@ -1,0 +1,26 @@
+buenas noches,dias,tardes viva jamaica 
+
+-las estructuras que utilizamos 
+
+si anidado (if,else,else if)
+utilice  el do while para no tener que ejecutar una y otra ves ||  gracias rita :3
+de resto cumple con lo estipulado 
+
+
+-errores
+
+bueno uno de nuestros errores fue utilizar el int en la imagen que dice error  al      
+usar el int, porque nos limito y nos dio un error en la pregunta 3
+de un numero que sobre pasaba los dijitos en una que eran entre 10 o 9 digitos no recuerdamos bien que puede tener el int.
+en la busqueda nos quedo el double podia tener entre 15 a 17 digitos aproximadamente 
+entonces lo implementamos en el codigo.
+la solucion que le pudimos dar al codigo fue implementar el double en ves de utilizar el int como se ve en la imagen de solucion.
+
+otro error fue el dividir entre cero ese a sido una falla
+if (num2 == 0 || num1 == 0) {
+    JOptionPane.showMessageDialog(null, "No se puede buscar multiplos 0");
+     nos falto esto   despues de ejecutarlo y ver que 0 siempre era multiplo de cero dije algo no cuadra y busque la solucion 
+
+
+
+Pro_JJ porque son las iniciales de los integrantes.
